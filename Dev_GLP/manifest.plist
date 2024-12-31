@@ -33,7 +33,7 @@
 				<key>bundle-identifier</key>
 				<string>com.edimax.nowhere</string>
 				<key>bundle-version</key>
-				<string>0.0.26(20240722)</string>
+				<string>0.0.27(20241004)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
